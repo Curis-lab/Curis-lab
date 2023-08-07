@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Boris 👋
 
-<!--
-**Curis-lab/Curis-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full Stack JavaScript Developer with a love for building interactive and user-friendly web applications. My primary focus is on creating robust and scalable solutions using a variety of cutting-edge technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on 🔧
+I'm always looking for new challenges and exciting projects to work on. Currently, I'm honing my skills in Docker, Tailwindcss, Webpack, Jest, GraphQL, Tailwind UI and Redux. Additionally, I'm actively contributing to open-source projects to give back to the developer community.
+
+
+## Get in touch 📫
+I'm always open to collaboration and would love to connect with fellow developers. Feel free to reach out to me via 
+[Twitter](https://twitter.com/NyanLin04299320), [Email(mathnyanlin@gmail.com)](mathnyanlin@gmail.com) to discuss ideas, share knowledge, or simply have a chat!
+
