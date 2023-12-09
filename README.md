@@ -8,6 +8,5 @@ I'm always looking for new challenges and exciting projects to work on. Currentl
 
 
 ## Get in touch 📫
-I'm always open to collaboration and would love to connect with fellow developers. Feel free to reach out to me via 
-[Twitter](https://twitter.com/NyanLin04299320), [Email(mathnyanlin@gmail.com)](mathnyanlin@gmail.com) to discuss ideas, share knowledge, or simply have a chat!
+I'm always open to collaboration and would love to connect with fellow developers. Feel free to reach out to me via [Email(mathnyanlin@gmail.com)](mathnyanlin@gmail.com) to discuss ideas, share knowledge, or simply have a chat!
 
