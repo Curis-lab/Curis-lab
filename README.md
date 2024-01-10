@@ -1,12 +1,26 @@
-# Hi, I'm Boris 👋
+<div align="center">
+  <h1>👋 Hello, I'm Nyan Lin</h1>
+  <p>Passionate Frontend Web development | Based in Myanamr</p>
+  <img src="https://img.shields.io/badge/-Your%20Specialty-orange" alt="Your Specialty Badge">
+</div>
 
-A passionate Full Stack JavaScript Developer with a love for building interactive and user-friendly web applications. My primary focus is on creating robust and scalable solutions using a variety of cutting-edge technologies.
+## 🚀 About Me
 
+I'm a Frontend Web Developer based in Myanmar. I love to explore new technologies and build meaningful projects.
 
-## What I'm working on 🔧
-I'm always looking for new challenges and exciting projects to work on. Currently, I'm honing my skills in Docker, Tailwindcss, Webpack, Jest, GraphQL, Tailwind UI and Redux. Additionally, I'm actively contributing to open-source projects to give back to the developer community.
+## 🛠️ Skills
 
+- **Languages:** Javascript, Typescripts
+- **Frameworks:** Next Js, TailwindCss, other relative frameworks
+- **Tools:** Node.js
 
-## Get in touch 📫
-I'm always open to collaboration and would love to connect with fellow developers. Feel free to reach out to me via [Email(mathnyanlin@gmail.com)](mathnyanlin@gmail.com) to discuss ideas, share knowledge, or simply have a chat!
+## 🌱 I’m currently learning
 
+- Cloud computing (AWS)
+
+## 📫 How to reach me
+
+- LinkedIn: www.linkedin.com/in/minnyanlin
+- Email: mathnyanlin@gmail.com
+
+<!-- Feel free to add more sections, badges, or customize the content based on your preferences -->
