@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Nyan Lin</h1>
-  <p>Passionate Frontend Web development | Based in Myanamr</p>
+  <p>Passionate Full-Stack Web development | Based in Myanamr</p>
   <img src="https://img.shields.io/badge/-Your%20Specialty-orange" alt="Your Specialty Badge">
 </div>
 
