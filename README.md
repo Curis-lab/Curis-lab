@@ -20,7 +20,6 @@ I'm a Frontend Web Developer based in Myanmar. I love to explore new technologie
 
 ## 📫 How to reach me
 
-- LinkedIn: www.linkedin.com/in/minnyanlin
 - Email: mathnyanlin@gmail.com
 
 <!-- Feel free to add more sections, badges, or customize the content based on your preferences -->
