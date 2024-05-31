@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-I'm a Frontend Web Developer based in Myanmar. I love to explore new technologies and build meaningful projects.
+I'm a Full Stack Web Developer based in Myanmar. I love to explore new technologies and build meaningful projects.
 
 ## 🛠️ Skills
 
 - **Languages:** Javascript, Typescripts
 - **Frameworks:** Next Js, TailwindCss, other relative frameworks
-- **Tools:** Node.js
+- **Tools:** Node.js, AWS
 
 ## 🌱 I’m currently learning
 
